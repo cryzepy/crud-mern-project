@@ -1,3 +1,3 @@
-const API_URL = "http://localhost:5003";
+const API_URL = "https://crud-mern-project-server.vercel.app";
 
 export default API_URL;
