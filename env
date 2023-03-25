@@ -1,0 +1,4 @@
+PORT=5003
+MONGO_URI=mongodb+srv://asusx441sa:asusx441sa@cluster0.vaxs61a.mongodb.net/?retryWrites=true&w=majority
+DATABASE=daily_task
+COLLECTION=account
