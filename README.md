@@ -4,3 +4,4 @@ aplikasi dibuat dengan:
   - Express.js (Web framework)
   - React (FrontEnd)
   - NodeJs (BackEnd)
+yang di gunakan untuk menambah, melihat, menghapus, dan mengubah user ke database
